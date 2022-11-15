@@ -3,8 +3,7 @@ name: Greetings
 on:
   push:
     branches:
-      - main
-      - 'mathijs/**'
+      - 'mathijs'
 
 jobs:
   greeting:
