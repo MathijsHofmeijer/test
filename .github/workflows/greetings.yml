@@ -13,6 +13,6 @@ jobs:
     - uses: cinotify/github-action@main
     - name: notify
       with:
-        to: 'example@example.com'
+        to: 'mathijshofmeijer@gmail.com'
         subject: 'building main'
         body: 'This is a notification from GitHub actions.'
